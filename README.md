@@ -2,6 +2,14 @@
 <h3 align="center">An aspiring Indian data analyst who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, statistics, and machine learning. My passion lies in solving business problems with tailored data and algorithms and communicating complex ideas to non-technical stakeholders. I am able to jump across verticals to deliver high-performing AI solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snjydas" alt="snjydas" /> </p>
+<p align="center">
+<a href="https://twitter.com/snjy_das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="snjy_das" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/snjydas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="snjydas" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/13801169" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13801169" height="30" width="30" /></a>
+<a href="https://fb.com/snjydas251297" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="snjydas251297" height="30" width="30" /></a>
+<a href="https://instagram.com/geekyslayer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="geekyslayer" height="30" width="30" /></a>
+<a href="https://medium.com/@snjydas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@snjydas" height="30" width="30" /></a>
+</p>
 
 - 🔭 I’m currently working on [Road Accident Analysis](https://github.com/snjydas/Road-Accident-Analysis)
 
@@ -34,13 +42,7 @@
 
 <p align="center">
 <a href="https://dev.to/snjydas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="snjydas" height="30" width="30" /></a>
-<a href="https://twitter.com/snjy_das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="snjy_das" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/snjydas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="snjydas" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/13801169" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13801169" height="30" width="30" /></a>
 <a href="https://kaggle.com/snjydas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="snjydas" height="30" width="30" /></a>
-<a href="https://fb.com/snjydas251297" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="snjydas251297" height="30" width="30" /></a>
-<a href="https://instagram.com/geekyslayer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="geekyslayer" height="30" width="30" /></a>
-<a href="https://medium.com/@snjydas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@snjydas" height="30" width="30" /></a>
 <a href="https://www.codechef.com/snjydas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="snjydas" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/snjydas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="snjydas" height="30" width="30" /></a>
 <a href="https://www.codeforces.com/snjydas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="snjydas" height="30" width="30" /></a>
