@@ -50,8 +50,12 @@
 * Lead Igniter, VelTech D2C Club.
 * Former Campus Ambassador at International Model United Nations.
 
+## My Github Stats:
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snjydas&theme=graywhite&layout=compact&hide=html" alt="snjydas" /></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=snjydas&theme=graywhite&show_icons=true" alt="snjydas" />
+
+## My Programming Profiles:
 
 <p align="center">
 <a href="https://dev.to/snjydas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="snjydas" height="30" width="30" /></a>
