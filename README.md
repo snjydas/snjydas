@@ -7,12 +7,12 @@
 ## You will find me here:
 
 <p align="center">
- <a href="https://linkedin.com/in/snjydas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="snjydas" height="40" width="30" /></a>
-<a href="https://twitter.com/snjy_das" target="blank"<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="snjy_das" height="40" width="30" /></a>
+ <a href="https://linkedin.com/in/snjydas" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="snjydas" height="40" width="30" /></a>
+<a href="https://twitter.com/snjy_das" target="blank"<img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="snjy_das" height="40" width="30" /></a>
 <a href="https://fb.com/snjydas251297" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="snjydas251297" height="30" width="40" /></a>
-<a href="https://instagram.com/geekyslayer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="geekyslayer" height="30" width="40" /></a>
+<a href="https://instagram.com/geekyslayer" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="geekyslayer" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13801169" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13801169" height="40" width="30" /></a>
-<a href="https://medium.com/@snjydas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@snjydas" height="30" width="40" /></a>
+<a href="https://medium.com/@snjydas" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@snjydas" height="30" width="40" /></a>
 </p>
 
 ## About Me:
@@ -33,6 +33,11 @@
 
 - ⚡ Fun fact **I love to learn new things, and I embrace my inner nerd 🤓**.
 
+🤔 Looking for a job which would help me make most of my skills.
+
+&nbsp; &nbsp; *[View My CV]()*
+&nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://github.com/)*
+<br />
 
 ## Tech Stack
 
@@ -51,8 +56,22 @@
 * Lead Igniter, VelTech D2C Club.
 * Former Campus Ambassador at International Model United Nations.
 
-## My Github Stats:
+## My Stats:
 
+<table>
+  <tr>
+    <td> :three: Internships Completed </td>
+    <td> :six: Projects Completed </td>
+    <td>  :four: Guided Projects  </td>
+    <td>  :two: Virtual Internships </td>
+  </tr>
+  <tr>
+    <td>  :eight: Golden Badges  </td>
+    <td>  :one::zero: Skills Verified </td>
+    <td>  :seven: Online Courses  </td>
+    <td>  :two::six: Github Repos </td>
+  </tr>
+</table>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snjydas&theme=graywhite&layout=compact&hide=html" alt="snjydas" /></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=snjydas&theme=graywhite&show_icons=true" alt="snjydas" />
 
