@@ -1,5 +1,5 @@
 <h1 align="center"><h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sanjay</h1>
-<h4 align="center">नमस्ते🙏 I am an aspiring Indian data analyst who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, statistics, and machine learning. My passion lies in solving business problems with tailored data and algorithms and communicating complex ideas to non-technical stakeholders.I am currently doing my B.Tech from <a href="https://www.veltech.edu.in/"> <b>Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology, Chennai</b></a></h4>
+<h4 align="center">नमस्ते🙏 , I am an aspiring Indian data analyst who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, statistics, and machine learning. My passion lies in solving business problems with tailored data and algorithms and communicating complex ideas to non-technical stakeholders.I am currently doing my B.Tech from <a href="https://www.veltech.edu.in/"> <b>Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology, Chennai.</b></a></h4>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snjydas" alt="snjydas" /> </p>
  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
@@ -7,31 +7,31 @@
 ## You will find me here:
 
 <p align="center">
+ <a href="https://linkedin.com/in/snjydas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="snjydas" height="40" width="30" /></a>
 <a href="https://twitter.com/snjy_das" target="blank"<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="snjy_das" height="40" width="30" /></a>
-<a href="https://linkedin.com/in/snjydas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="snjydas" height="40" width="30" /></a>
-<a href="https://stackoverflow.com/users/13801169" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13801169" height="40" width="30" /></a>
 <a href="https://fb.com/snjydas251297" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="snjydas251297" height="30" width="40" /></a>
 <a href="https://instagram.com/geekyslayer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="geekyslayer" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13801169" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13801169" height="40" width="30" /></a>
 <a href="https://medium.com/@snjydas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@snjydas" height="30" width="40" /></a>
 </p>
 
 ## About Me:
 
-- 🔭 I’m currently working on [Road Accident Analysis](https://github.com/snjydas/Road-Accident-Analysis)
+- 🔭 I’m currently working on [Road Accident Analysis](https://github.com/snjydas/Road-Accident-Analysis).
 
-- 🌱 I’m currently learning **Flask & C++**
+- 🌱 I’m currently learning **Flask & C++**.
 
-- 👯 I’m looking to collaborate on [Covid Guard](https://github.com/snjydas/Covid-Guard)
+- 👯 I’m looking to collaborate on [Covid Guard](https://github.com/snjydas/Covid-Guard).
 
-- 🤝 I’m looking for help with [Sepsis Detector](https://github.com/snjydas/Sepsis-Detection)
+- 🤝 I’m looking for help with [Sepsis Detector](https://github.com/snjydas/Sepsis-Detection).
 
-- 📝 I regulary write articles on [https://medium.com/@snjydas](https://medium.com/@snjydas)
+- 📝 I regulary write articles on [medium.](https://medium.com/@snjydas).
 
-- 💬 Ask me about **Python, Datascience & AI.**
+- 💬 Ask me about **Python, Datascience & AI**.
 
-- 📫 How to reach me **sanjaydas251297@gmail.com**
+- 📫 How to reach me **sanjaydas251297@gmail.com**.
 
-- ⚡ Fun fact **I love to learn new things, and I embrace my inner nerd. 🤓**
+- ⚡ Fun fact **I love to learn new things, and I embrace my inner nerd 🤓**.
 
 
 ## Tech Stack
