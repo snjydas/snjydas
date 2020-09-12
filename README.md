@@ -72,8 +72,9 @@
     <td>  :two::six: Github Repos </td>
   </tr>
 </table>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snjydas&theme=graywhite&layout=compact&hide=html" alt="snjydas" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=snjydas&theme=graywhite&show_icons=true" alt="snjydas" />
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snjydas&theme=graywhite&layout=compact&hide=html" alt="snjydas" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=snjydas&theme=graywhite&show_icons=true" alt="snjydas" /></p>
+
 
 ## My Programming Profiles:
 
