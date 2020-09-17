@@ -62,14 +62,14 @@
   <tr>
     <td> :four: Internships Completed </td>
     <td> :six: Projects Completed </td>
-    <td>  :four: Guided Projects  </td>
+    <td>  :two: Guided Projects  </td>
     <td>  :two: Virtual Internships </td>
   </tr>
   <tr>
     <td>  :eight: Golden Badges  </td>
     <td>  :one::zero: Skills Verified </td>
     <td>  :seven: Online Courses  </td>
-    <td>  :two::six: Github Repos </td>
+    <td>  :one::three: Github Repos </td>
   </tr>
 </table>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snjydas&theme=graywhite&layout=compact&hide=html" alt="snjydas" /></p>
