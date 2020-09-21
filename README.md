@@ -1,4 +1,7 @@
 <h1 align="center"><h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sanjay</h1>
+
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
 <h4 align="center">नमस्ते🙏 , I am an aspiring Indian data analyst who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, statistics, and machine learning. My passion lies in solving business problems with tailored data and algorithms and communicating complex ideas to non-technical stakeholders. I am currently doing my B.Tech (CSE) from <a href="https://www.veltech.edu.in/"> <b>Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology, Chennai.</b></a></h4>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snjydas" alt="snjydas" /> </p>
