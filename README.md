@@ -4,22 +4,14 @@
 
 <h4 align="center">नमस्ते🙏 , I am an aspiring Indian data analyst who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, statistics, and machine learning. My passion lies in solving business problems with tailored data and algorithms and communicating complex ideas to non-technical stakeholders. I am currently doing my B.Tech (CSE) from <a href="https://www.veltech.edu.in/"> <b>Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology, Chennai.</b></a></h4>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
-<img src="https://komarev.com/ghpvc/?username=snjydas" alt="snjydas" />
- <img alt="GitHub"src="https://img.shields.io/badge/dynamic/jsonlogo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dsnjydas&longCache=true">
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-    <!--<img src="https://img.shields.io/stackexchange/stackoverflow/r/13598602?style=flat-square">-->
-    <img src="https://img.shields.io/badge/Open%20Source-8-orange?style=flat-square">
-    <img src="https://img.shields.io/badge/Full%20Stack-2-orange?style=flat-square">
-    <img src="https://img.shields.io/badge/NPM%20Packages-3-red?style=flat-square">
-    <img src="https://img.shields.io/badge/PyPi%20Packages-1-lightgrey?style=flat-square">
  
  
  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
  
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
  
 ## You will find me here:
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
 <p align="center">
  <a href="https://linkedin.com/in/snjydas" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="snjydas" height="40" width="30" /></a>
 <a href="https://twitter.com/snjy_das" target="blank"<img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="snjy_das" height="40" width="30" /></a>
