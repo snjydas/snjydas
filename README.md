@@ -11,7 +11,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
  
 ## You will find me here:
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
 <p align="center">
  <a href="https://linkedin.com/in/snjydas" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="snjydas" height="40" width="30" /></a>
 <a href="https://twitter.com/snjy_das" target="blank"<img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="snjy_das" height="40" width="30" /></a>
