@@ -2,11 +2,7 @@
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<h4 align="center">नमस्ते🙏 , I am an aspiring Indian data analyst who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, statistics, and machine learning. My passion lies in solving business problems with tailored data and algorithms and communicating complex ideas to non-technical stakeholders. I am currently doing my B.Tech (CSE) from <a href="https://www.veltech.edu.in/"> <b>Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology, Chennai.</b></a></h4>
-
- 
- 
- <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<h4 align="center">नमस्ते🙏 </h4>
  
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
  
@@ -20,7 +16,20 @@
 <a href="https://medium.com/@snjydas" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@snjydas" height="30" width="40" /></a>
 </p>
 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<br>
+<p>
+<a href="https://mayank-bajaj.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.mayankbajaj.me-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://linkedin.com/in/snjydas"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-snjydas-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/geekyslayer"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-geekyslayer-blue?style=flat-square&logo=instagram"></a>
+<a href="sanjaydas251297@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sanjaydas251297@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://stackoverflow.com/users/13801169" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13801169" height="40" width="30" /></a>
+<a href="https://medium.com/@snjydas" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@snjydas" height="30" width="40" /></a>
+</p>
+
 ## About Me:
+
+- 🎓 Studying Computer Science & Engineering at <a href="https://www.veltech.edu.in/"> <b>Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology, Chennai.</b></a>
 
 - 🔭 I’m currently working on [Real Estate Broker Application](https://github.com/snjydas/Real-Estate-Broker-Application)
 
@@ -44,24 +53,33 @@
 &nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://github.com/)*
 <br />
 
-## Tech Stack
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-<p align="left"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-</p>
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)&nbsp;
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+### Tools I work upon : 🛠
+<img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>     &nbsp; <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> &nbsp;    <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> &nbsp;    <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> &nbsp;    <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
+<br/>
+<br/>
+<br/>
 
 
 ## Blogs Posts
